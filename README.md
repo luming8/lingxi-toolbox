@@ -8,7 +8,7 @@
 ## ✨ 功能特色
 
 - 🚀 **简单易用**：操作简单，界面清晰美观
-- 🖥️ **多平台支持**：Windows / macOS / Linux
+- 🖥️ **平台支持**：Windows 
 - 🌐 **多资源类型支持**：视频 / 文件 / 图片 / 文本等
 - 🌍 **支持代理**：支持设置代理
 
@@ -27,7 +27,7 @@
 ## 🧩 下载地址
 
 - 🆕 [GitHub 下载](https://github.com/luming8/lingxi-toolbox/releases)
-- 🆕 [蓝奏云下载 密码:2f5r](https://lm88.lanzoub.com/b0j0id6yb)
+- 🆕 [蓝奏云下载 密码:2f5r](https://www.lanzoum.com/b0j0id6yb)
 
 --- 
 
