@@ -45,3 +45,5 @@
 
 > 本软件仅供学习与研究用途，禁止用于任何商业或违法用途。  
 如因此产生的任何法律责任，概与作者无关！
+---
+[![Star History Chart](https://api.star-history.com/svg?repos=luming8/lingxi-toolbox&type=Date)](https://star-history.com/#luming8/lingxi-toolbox&Date)
